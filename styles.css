@@ -49,3 +49,28 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+/* About Page Styling */
+.about-section {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.about-image {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.about-text {
+  background: #f8f8f8;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
+.about-text h2 {
+  color: #2E7D32;
+  margin-bottom: 1rem;
+}
