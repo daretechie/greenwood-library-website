@@ -8,11 +8,9 @@ A responsive community library website featuring book reviews, event management,
 
 ![Library Website Preview](greenwood.png)
 
-### Demo
-<video width="100%" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### Demo Video
+
+[![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1R_e8P-wzcC54EorPsb8na1606-Cyh1CN/view?usp=drivesdk)
 
 ## Table of Contents
 - [Features](#features)
