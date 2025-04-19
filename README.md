@@ -6,7 +6,13 @@
 
 A responsive community library website featuring book reviews, event management, and visitor engagement tools.
 
-![Library Website Preview](https://via.placeholder.com/800x400?text=Greenwood+Library+Screenshot) <!-- Replace with actual screenshot -->
+![Library Website Preview](greenwood.png)
+
+### Demo
+<video width="100%" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Table of Contents
 - [Features](#features)
