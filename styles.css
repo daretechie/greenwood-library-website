@@ -158,3 +158,36 @@ footer {
 }
 
 
+/* Events Styling */
+.events-list {
+  margin-top: 2rem;
+}
+
+.event-item {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+
+.date {
+  color: #2E7D32; /* Dark green */
+  font-weight: bold;
+}
+
+.register-btn {
+  background: #2E7D32;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 1rem;
+}
+
+.register-btn:hover {
+  background: #1B5E20;
+}
+
+
