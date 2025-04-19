@@ -10,7 +10,7 @@ A responsive community library website featuring book reviews, event management,
 
 ### Demo Video
 
-[![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1R_e8P-wzcC54EorPsb8na1606-Cyh1CN/view?usp=drivesdk)
+![Demo](demo.gif)
 
 ## Table of Contents
 - [Features](#features)
